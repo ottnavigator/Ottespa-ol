@@ -520,18 +520,18 @@ https://scl.edge.grupoz.cl/rtcstreaming/live/playlist.m3u8?PlaylistM3UCL
 https://canalzoom.smoothcloud.co:3027/live/canalzoombr1live.m3u8?PlaylistM3UCL
 
 #EXTINF:1 tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/ee71dafb-d934-48ce-8ad2-50a10d323b3b/1332270666/ott-navigator-iptv-logo.png" group-title="ESPAÑOL الأسبانية",154. telepetróleo
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://telepetroleo.com/
-https://usmia02-edge.teveo.net/live/AeAAAgAIAAE7A1IAyADIUCAAAAAAAAAAAmnQg4u_X4ELAAAA/chunklist_w596096720.m3u8
+https://edge.teveo.net/live/AeAAAgAIAAE7A1IAyADIUCAAAAAAAAAAAmnRq7S_X4ELAAAA/media_w1780473727_4754.m3u8
 
 #EXTINF:1 tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/ee71dafb-d934-48ce-8ad2-50a10d323b3b/1332270666/ott-navigator-iptv-logo.png" group-title="ESPAÑOL الأسبانية",155. canal 2 yopal
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; Mi Box) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.210 Safari/537.36
 https://stream2.micanal2.tv/hls/canal2.m3u8
 
 #EXTINF:1 tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/ee71dafb-d934-48ce-8ad2-50a10d323b3b/1332270666/ott-navigator-iptv-logo.png" group-title="ESPAÑOL الأسبانية",156. canal 2 cali
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.canal2.co/envivo/
-https://usmia02-edge.teveo.net/live/AeAAAgBJAA5AA1IAyADIUDAAAAGAAAAAAmnQibe_X4ELAAAA/chunklist_w1991139616.m3u8
+https://edge.teveo.net/live/AeAAAgBJAA5AA1IAyADIUDAAAAGAAAAAAmnRu02_X4ELAAAA/media_w2058768714_5419.m3u8
 
 #EXTINF:1 tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/ee71dafb-d934-48ce-8ad2-50a10d323b3b/1332270666/ott-navigator-iptv-logo.png" group-title="ESPAÑOL الأسبانية",157. canal cnc medellin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; Mi Box) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.210 Safari/537.36
@@ -551,9 +551,9 @@ https://hvtraficonew.ddns.net/telepasto/telepasto.stream/index.m3u8?PlaylistM3UC
 https://play.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/022/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:1 tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/ee71dafb-d934-48ce-8ad2-50a10d323b3b/1332270666/ott-navigator-iptv-logo.png" group-title="ESPAÑOL الأسبانية",162. enlace televisión (enlace 10)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://enlacetelevision.com/en-vivo/
-https://usmia02-edge.teveo.net/live/AeAAAgAFAADLA1IAyADIQCAAAAAAAAAAAmnQgcy_X4ELAAAA/media_w136345565_37224.m3u8
+https://edge.teveo.net/live/AeAAAgAFAADLA1IAyADIQCAAAAAAAAAAAmnRWQ-_X4ELAAAA/media_w1079508689_1264.m3u8?AKsRol_H6gRQQjZY4xwIFknpu8pLBF8JbI7DwGlq7h0EgahdqAtO9npv8MBJ8sGJcFXSxJES-6f3MitcW_t-l7S-4dXXZtRHJ0c45ebjDBEgYOBWF_u0IwfJvEi_-PS9z-RnlevHs5glmNEUSw9ZNCPsRz5_cuAfPw==
 
 #EXTINF:1 tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/ee71dafb-d934-48ce-8ad2-50a10d323b3b/1332270666/ott-navigator-iptv-logo.png" group-title="ESPAÑOL الأسبانية",163. veo tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; Mi Box) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.210 Safari/537.36
