@@ -549,7 +549,7 @@ https://play.cdn.enetres.net/6E5C615AA5FF4127yyy3ACAF0DAB57B7B8DC021/022/playlis
 
 #EXTINF:1 tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/ee71dafb-d934-48ce-8ad2-50a10d323b3b/1332270666/ott-navigator-iptv-logo.png" group-title="ESPAÑOL الأسبانية",162. promar tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
-http://vcp1.myplaytv.com/promar/promar/playlist.m3u8
+http://vcp1.myplaytvjjsjeke.com/promar/promar/playlist.m3u8
 
 #EXTINF:1 tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/ee71dafb-d934-48ce-8ad2-50a10d323b3b/1332270666/ott-navigator-iptv-logo.png" group-title="ESPAÑOL الأسبانية",163. veo tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; Mi Box) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.210 Safari/537.36
@@ -1287,7 +1287,7 @@ https://dunyanhls.wns.live/hls/stream.m3u8
 #EXTINF:1 tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/ee71dafb-d934-48ce-8ad2-50a10d323b3b/1332270666/ott-navigator-iptv-logo.png" group-title="عربي ÁRABE",392. alhiwar
 https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8 
 
-#EXTINF:1 tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/ee71dafb-d934-48ce-8ad2-50a10d323b3b/1332270666/ott-navigator-iptv-logo.png" group-title="عربي ÁRABE",393. hispan tv الأسبانية
+#EXTINF:1 tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/ee71dafb-d934-48ce-8ad2-50a10d323b3b/1332270666/ott-navigator-iptv-logo.png" group-title="عربي ÁRABE",393. hispan tv 
 https://live.presstv.ir/hls/hispantv_5_482/index.m3u8 
 
 #EXTINF:1 tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/ee71dafb-d934-48ce-8ad2-50a10d323b3b/1332270666/ott-navigator-iptv-logo.png" group-title="عربي ÁRABE",394. vdl
@@ -1456,8 +1456,8 @@ https://live-hls-web-ajm2-fa.getaj.net/AJM2/index.m3u8
 #EXTINF:1 tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/ee71dafb-d934-48ce-8ad2-50a10d323b3b/1332270666/ott-navigator-iptv-logo.png" group-title="عربي ÁRABE",448. al jazeera mubasher 24
 https://live-hls-web-ajm24-fa.getaj.net/AJM24/index.m3u8 
 
-#EXTINF:1 tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/ee71dafb-d934-48ce-8ad2-50a10d323b3b/1332270666/ott-navigator-iptv-logo.png" group-title="عربي ÁRABE",449. al jazeera فيلم وثائقي
-http://getfamily.tv:8080/live/fx376867945856/85675756837/984c281a-064c-4d83-88d1-af0f10949fb1.ts
+#EXTINF:1 tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/ee71dafb-d934-48ce-8ad2-50a10d323b3b/1332270666/ott-navigator-iptv-logo.png" group-title="عربي ÁRABE",449. tv5 al maghribia
+https://viamotionhsi.netplus.ch/live/eds/almaghribia/browser-dash/almaghribia.mpd
 
 #EXTINF:1 tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/ee71dafb-d934-48ce-8ad2-50a10d323b3b/1332270666/ott-navigator-iptv-logo.png" group-title="عربي ÁRABE",450. yementdy
 https://video.yementdy.tv/hls/yementoday.m3u8 
@@ -1517,7 +1517,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:1 tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/ee71dafb-d934-48ce-8ad2-50a10d323b3b/1332270666/ott-navigator-iptv-logo.png" group-title="عربي ÁRABE",468. ajyal
 http://htvajyal.mada.ps:8888/ajyal/index.m3u8 
 
-#EXTINF:1 tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/ee71dafb-d934-48ce-8ad2-50a10d323b3b/1332270666/ott-navigator-iptv-logo.png" group-title="عربي ÁRABE",469. ch_374
+#EXTINF:1 tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/ee71dafb-d934-48ce-8ad2-50a10d323b3b/1332270666/ott-navigator-iptv-logo.png" group-title="عربي ÁRABE",469. ch_469
 http://77.137.40.221:8000/play/a00o 
 
 #EXTINF:1 tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/ee71dafb-d934-48ce-8ad2-50a10d323b3b/1332270666/ott-navigator-iptv-logo.png" group-title="عربي ÁRABE",470. ava series
@@ -1592,11 +1592,11 @@ https://cdn-globecast.akamaized.net/live/eds/libya_al_watanya/hls_roku/index.m3u
 #EXTINF:1 tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/ee71dafb-d934-48ce-8ad2-50a10d323b3b/1332270666/ott-navigator-iptv-logo.png" tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/ee71dafb-d934-48ce-8ad2-50a10d323b3b/1332270666/ott-navigator-iptv-logo.png" group-title="عربي ÁRABE",493. ch_493
 https://flu.systemnet.tv/mix44/index.m3u8
 
-#EXTINF:1 tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/ee71dafb-d934-48ce-8ad2-50a10d323b3b/1332270666/ott-navigator-iptv-logo.png" tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/ee71dafb-d934-48ce-8ad2-50a10d323b3b/1332270666/ott-navigator-iptv-logo.png" tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/ee71dafb-d934-48ce-8ad2-50a10d323b3b/1332270666/ott-navigator-iptv-logo.png" group-title="عربي ÁRABE",494. ch_494
-https://shls-live-enc.edgenextcdn.net/out/v1/45ad6fbe1f7149ad9f05f8aefc38f6c0/index.m3u8 
+#EXTINF:1 tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/ee71dafb-d934-48ce-8ad2-50a10d323b3b/1332270666/ott-navigator-iptv-logo.png" tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/ee71dafb-d934-48ce-8ad2-50a10d323b3b/1332270666/ott-navigator-iptv-logo.png" tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/ee71dafb-d934-48ce-8ad2-50a10d323b3b/1332270666/ott-navigator-iptv-logo.png" group-title="عربي ÁRABE",494. bitmovin alsouriya tv
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-souriya-tv/e3150760fa5fd62776225433b8c3d406/index.m3u8
 
-#EXTINF:1 tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/ee71dafb-d934-48ce-8ad2-50a10d323b3b/1332270666/ott-navigator-iptv-logo.png" tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/ee71dafb-d934-48ce-8ad2-50a10d323b3b/1332270666/ott-navigator-iptv-logo.png" group-title="عربي ÁRABE",495. tv6 Assadissa
-http://mrbo.nl:80/Rouslandc/tWWUzqD/535
+#EXTINF:1 tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/ee71dafb-d934-48ce-8ad2-50a10d323b3b/1332270666/ott-navigator-iptv-logo.png" tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/ee71dafb-d934-48ce-8ad2-50a10d323b3b/1332270666/ott-navigator-iptv-logo.png" group-title="عربي ÁRABE",495. mbc 5
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-5/ee6b000cee0629411b666ab26cb13e9b/index.m3u8
 
 #EXTINF:1 tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/ee71dafb-d934-48ce-8ad2-50a10d323b3b/1332270666/ott-navigator-iptv-logo.png" tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/ee71dafb-d934-48ce-8ad2-50a10d323b3b/1332270666/ott-navigator-iptv-logo.png" group-title="عربي ÁRABE",496. halab today tv
 https://mn-nl.mncdn.com/halabtoday/livestream/index.m3u8 
