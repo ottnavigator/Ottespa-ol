@@ -130,8 +130,9 @@ http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; Mi Box) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.210 Safari/537.36
 https://59ef525c24caa.streamlock.net/tvurbano/tvurbano/playlist.m3u8
 
-#EXTINF:1 tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/ee71dafb-d934-48ce-8ad2-50a10d323b3b/1332270666/ott-navigator-iptv-logo.png" group-title="ESPAÑOL الأسبانية",036. soy plancha tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; Mi Box) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.210 Safari/537.36
+#EXTINF:0, tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/ee71dafb-d934-48ce-8ad2-50a10d323b3b/1332270666/ott-navigator-iptv-logo.png" group-title="ESPAÑOL الأسبانية",036. soy plancha tv
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.3.3 (Linux) ExoPlayerLib/1.10.0-alpha01
 https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8
 
 #EXTINF:1 tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/ee71dafb-d934-48ce-8ad2-50a10d323b3b/1332270666/ott-navigator-iptv-logo.png" group-title="ESPAÑOL الأسبانية",037. teleritmo
