@@ -1219,11 +1219,11 @@ https://live.kwikmotion.com/smckidslive/tjkids1/playlist.m3u8
 #EXTINF:1 tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/ee71dafb-d934-48ce-8ad2-50a10d323b3b/1332270666/ott-navigator-iptv-logo.png" group-title="عربي ÁRABE",370. spacetoon
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-spacetoon/d8382fb9ab4b2307058f12c7ea90db54/index.m3u8 
 
-#EXTINF:1 tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/ee71dafb-d934-48ce-8ad2-50a10d323b3b/1332270666/ott-navigator-iptv-logo.png" group-title="عربي ÁRABE",371. cartoon network عربي
-http://fistfast.vip:80/Alexandersimoes/cit441917s/355505.ts
-
-#EXTINF:1 tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/ee71dafb-d934-48ce-8ad2-50a10d323b3b/1332270666/ott-navigator-iptv-logo.png" group-title="عربي ÁRABE",372. ch4teen kids
+#EXTINF:1 tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/ee71dafb-d934-48ce-8ad2-50a10d323b3b/1332270666/ott-navigator-iptv-logo.png" group-title="عربي ÁRABE",371. ch4teen kids
 http://ch14.tv/live/ch4teenkids/playlist.m3u8
+
+#EXTINF:1 tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/ee71dafb-d934-48ce-8ad2-50a10d323b3b/1332270666/ott-navigator-iptv-logo.png" group-title="عربي ÁRABE",372. orient
+http://htvint.mada.ps:8889//orient/tracks-v1a1/mono.m3u8
 
 #EXTINF:1 tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/ee71dafb-d934-48ce-8ad2-50a10d323b3b/1332270666/ott-navigator-iptv-logo.png" group-title="عربي ÁRABE",373. ltv
 https://p-ltv.akamaized.net/ltv/ltv.m3u8 
