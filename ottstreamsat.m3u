@@ -79,9 +79,9 @@ http://181.209.37.74:8001/play/a06s/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; Mi Box) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.210 Safari/537.36
 http://156.238.81.209:8001/play/a0em/index.m3u8
 
-#EXTINF:1 tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/ee71dafb-d934-48ce-8ad2-50a10d323b3b/1332270666/ott-navigator-iptv-logo.png" group-title="ESPAÑOL الأسبانية",022. karibeña 
+#EXTINF:1 tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/ee71dafb-d934-48ce-8ad2-50a10d323b3b/1332270666/ott-navigator-iptv-logo.png" group-title="ESPAÑOL الأسبانية",022. 13 rec tv 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; Mi Box) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.210 Safari/537.36
-http://209.45.101.155:8000/play/a07r
+http://209.14.118.0:8000/play/a0x6/index.m3u8
 
 #EXTINF:1 tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/ee71dafb-d934-48ce-8ad2-50a10d323b3b/1332270666/ott-navigator-iptv-logo.png" group-title="ESPAÑOL الأسبانية",023. htv 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; Mi Box) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.210 Safari/537.36
@@ -176,7 +176,8 @@ https://streamer1.streamhost.org/salive/GMIlcbgM/playlist.m3u8
 https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8
 
 #EXTINF:1 tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/ee71dafb-d934-48ce-8ad2-50a10d323b3b/1332270666/ott-navigator-iptv-logo.png" group-title="ESPAÑOL الأسبانية",049. bethel tv 
-https://live.amelbatv.co:81/bethelcolombia/index.fmp4.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; Mi Box) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.210 Safari/537.36
+https://209.14.119.203:8000/play/a0ay/index.m3u8
 
 #EXTINF:1 tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/ee71dafb-d934-48ce-8ad2-50a10d323b3b/1332270666/ott-navigator-iptv-logo.png" group-title="ESPAÑOL الأسبانية",050. tv gracia
 https://vs20.live.opencaster.com/diego_57244803/index.m3u8?
@@ -688,8 +689,8 @@ http://190.83.15.112:8000/play/a066/index.m3u8?hls
 #EXTINF:1 tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/ee71dafb-d934-48ce-8ad2-50a10d323b3b/1332270666/ott-navigator-iptv-logo.png" group-title="ESPAÑOL الأسبانية",202. Canal 34 San Juan
 https://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
 
-#EXTINF:1 tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/ee71dafb-d934-48ce-8ad2-50a10d323b3b/1332270666/ott-navigator-iptv-logo.png" group-title="ESPAÑOL الأسبانية",203. teleflix
-https://24.152.54.30:8085/play/a001/index.m3u8?hls
+#EXTINF:1 tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/ee71dafb-d934-48ce-8ad2-50a10d323b3b/1332270666/ott-navigator-iptv-logo.png" group-title="ESPAÑOL الأسبانية",203. visión tv
+https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
 
 #EXTINF:1 tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/ee71dafb-d934-48ce-8ad2-50a10d323b3b/1332270666/ott-navigator-iptv-logo.png" group-title="ESPAÑOL الأسبانية",204. wtv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; Mi Box) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.210 Safari/537.36
