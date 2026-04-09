@@ -1094,7 +1094,7 @@ http://45.171.64.30:8800/play/a014
 http://177.53.153.207:8000/play/a00f/index.m3u8
 
 #EXTINF:1 tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/ee71dafb-d934-48ce-8ad2-50a10d323b3b/1332270666/ott-navigator-iptv-logo.png" group-title="ESPAÑOL الأسبانية",328. tooncast 
-http://209.61.12.128:9000/play/a03z/index.m3u8
+http://45.5.116.228:8000/play/a03k/index.m3u8
 
 #EXTINF:1 tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/ee71dafb-d934-48ce-8ad2-50a10d323b3b/1332270666/ott-navigator-iptv-logo.png" group-title="ESPAÑOL الأسبانية",329. semillitas
 http://177.10.184.193:8000/play/a03g/index.m3u8
