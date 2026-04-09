@@ -1059,10 +1059,10 @@ https://api-ott-imps-imps.ottera.tv/loggingmediaurlpassthrough/a.m3u8?ads.dpname
 http://190.90.71.103:8000/play/a01t/index.m3u8
 
 #EXTINF:1 tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/ee71dafb-d934-48ce-8ad2-50a10d323b3b/1332270666/ott-navigator-iptv-logo.png" group-title="ESPAÑOL الأسبانية",317. disney jr
-http//45.190.187.183:8080/play/a1kr
+http://45.190.187.183:8080/play/a1kr
 
 #EXTINF:1 tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/ee71dafb-d934-48ce-8ad2-50a10d323b3b/1332270666/ott-navigator-iptv-logo.png" group-title="ESPAÑOL الأسبانية",318. nickelodeon
-http://181.78.82.6:46090/play/a00o?hls
+http://181.78.82.6:46090/play/a00o
 
 #EXTINF:1 tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/ee71dafb-d934-48ce-8ad2-50a10d323b3b/1332270666/ott-navigator-iptv-logo.png" group-title="ESPAÑOL الأسبانية",319. nickelodeon jr
 http://190.90.71.103:8000/play/a02k/index.m3u8
