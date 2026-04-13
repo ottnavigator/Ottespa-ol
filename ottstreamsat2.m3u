@@ -54,6 +54,7 @@ http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog
 #EXTINF:-1 tvg-name="newsmax" tvg-logo="https://play-lh.googleusercontent.com/l_4eAeFUa_swWLxb1ysozJokP3_OZs6-uQVwA85mJ6AYBjY-W7sNNr0SqAqEKSAeSMU=w720-h405-rw" tvg-id="newsmax" tvg-chno="27" tvg-country="" group-title="OTT_STREAMSAT عربي",027. newsmax
 https://d29h829bjuxghm.cloudfront.net/hls/index.m3u8?ads.xumo_channelId=99992174&ads.xumo_streamId=99992174&ads.channelId=99992174&ads.csid=lgchannels_mx_newsmax_ssai&ads.channelName=newsmax_es&ads.xumo_contentName=Newsmax&ads.xumo_contentId=141&ads.xumo_providerName=Newsmax&ads.xumo_providerId=141&ads.content_category=IAB1-7&ads.content_genre=news&ads.content_language=es&ads.content_rating=tv-g&ads.coppa=0&ads.did=[IFA]&ads.is_lat=[LMT]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.appName=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_version=[APP_VERSION]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_storeurl=[APP_STOREURL]
 #EXTINF:-1 tvg-name="euro news español" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuXedNtb6APaHzyUw9PdS0nll-_6QUBTCIEkH563Hfzg&s=10" tvg-id="euronewsespañol" tvg-chno="28" tvg-country="" group-title="OTT_STREAMSAT",028. euro news español
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; Mi Box) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.210 Safari/537.36
 http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
 #EXTINF:-1 tvg-name="tve 24h" tvg-logo="https://pbs.twimg.com/profile_images/1634293543987453954/mb1Rzmso_400x400.jpg" tvg-id="tve24h" tvg-chno="29" tvg-country="" group-title="OTT_STREAMSAT عربي",029. tve 24h
 https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr_720.m3u8
@@ -110,6 +111,7 @@ http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog
 #EXTINF:-1 tvg-name="neo tv" tvg-logo="https://neotvdigital.com.ar/wp-content/uploads/2024/07/Logo-Neo-Tv-PNG-alta-calidad.png" tvg-id="neo tv" tvg-chno="55" tvg-country="" group-title="OTT_STREAMSAT",055. neo tv
 http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
 #EXTINF:-1 tvg-name="box cinema" tvg-logo="https://a.jsrdn.com/hls/23195/box-cinema/logo_20250102_225527_70.png" tvg-id="boxcinema" tvg-chno="56" tvg-country="" group-title="OTT_STREAMSAT",056. box cinema
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; Mi Box) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.210 Safari/537.36
 http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
 #EXTINF:-1 tvg-name="bigtime" tvg-logo="https://yt3.googleusercontent.com/uepaQOeFI6qlEY6EwtiC9lAXwVBLs-U-sN-xiqN4Zf77yydRKBg1KlJZl2ST4F6EioVrldIn0t4=s900-c-k-c0x00ffffff-no-rj" tvg-id="bigtime" tvg-chno="57" tvg-country="" group-title="OTT_STREAMSAT",057. bigtime
 http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
@@ -130,6 +132,7 @@ http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog
 #EXTINF:-1 tvg-name="amc en español" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6DsWfoZje_9MfLTahptg8On5vBXJLGams13v8gvJQig&s=10" tvg-id="amcenespañol" tvg-chno="65" tvg-country="" group-title="OTT_STREAMSAT",065. amc en español
 http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
 #EXTINF:-1 tvg-name="romance channel" tvg-logo="https://image.roku.com/developer_channels/prod/e6b0ced8f3e2626d462c0785a30fdaf29311d4db738c8375787dc03d7b499ed4.png" tvg-id="romancechannel" tvg-chno="66" tvg-country="" group-title="OTT_STREAMSAT",066. romance channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; Mi Box) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.210 Safari/537.36
 http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
 #EXTINF:-1 tvg-name="my time movies network" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_rnqQZq5L4ygpv-BZGZdqS1FTOd1_baX2AbBdTRb5UQ&s=10" tvg-id="mytimemoviesnetwork" tvg-chno="67" tvg-country="" group-title="OTT_STREAMSAT",067. my time movies network
 http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
