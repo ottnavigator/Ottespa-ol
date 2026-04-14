@@ -227,7 +227,8 @@ https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU
 #EXTINF:-1 tvg-name="mayadeen tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlJCOE3bRc_3WLXn8GsrFaufgp9k12ox4cTclWbroAAQ&s=10" tvg-id="mayadeentv" tvg-chno="112" tvg-country="" group-title="OTT_STREAMSAT عربي",112. al mayadeen tv
 https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="medi 1 tv" tvg-logo="https://www.assahifa.com/wp-content/uploads/2024/12/medi1tv_logo.png" tvg-id="medi1tv" tvg-chno="113" tvg-country="" group-title="OTT_STREAMSAT عربي",113. medi 1 tv
-https://streaming2.medi1tv.com/live/smil:medi1ar.smil/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-arabic_g90v4ec/playlist_dvr.m3u8
 #EXTINF:-1 tvg-name=" al-aqsa tv" tvg-logo="https://shehabnews.com/uploads/images/2025/03/qVce3.jpg" tvg-id=" alaqsatv" tvg-chno="114" tvg-country="" group-title="OTT_STREAMSAT عربي",114. al-aqsa tv
 http://167.172.161.13/hls/feedspare/6udfi7v8a3eof6nlps6e9ovfrs65c7l7.m3u8
 #EXTINF:-1 tvg-name="2m" tvg-logo="https://mediterranee-audiovisuelle.com/wp-content/uploads/2022/03/1200px-2M_Logo.svg_.png" tvg-id="2m" tvg-chno="115" tvg-country="" group-title="OTT_STREAMSAT عربي",115. 2m
