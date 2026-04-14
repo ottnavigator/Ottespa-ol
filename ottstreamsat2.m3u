@@ -117,7 +117,7 @@ http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog
 http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
 #EXTINF:-1 tvg-name="cine friki" tvg-logo="https://sincroguia-tv.expansion.com/uploads/channels/logo-cine-friki-9508.jpg" tvg-id="cinefriki" tvg-chno="58" tvg-country="" group-title="OTT_STREAMSAT",058. cine friki
 http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:-1 tvg-name="cine español" tvg-logo="https://static.wixstatic.com/media/8aa4c6_372303d0b6d543e88fcbaa9164f0e0c7~mv2.png/v1/fit/w_2500,h_1330,al_c/8aa4c6_372303d0b6d543e88fcbaa9164f0e0c7~mv2.png" tvg-id="cineespañol" tvg-chno="59" tvg-country="" group-title="OTT_STREAMSAT",059. cine español
+#EXTINF:-1 tvg-name="cine español" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSweIe3BVMIP0xTK9MBKqjDxYeYWw2ohw2D-AMnCBBetQ&s=10" tvg-id="cineespañol" tvg-chno="59" tvg-country="" group-title="OTT_STREAMSAT",059. cine español
 http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
 #EXTINF:-1 tvg-name="cindie tv" tvg-logo="https://d1y2dphb29uhu6.cloudfront.net/c/433/images/cqYA0kmQKlUvEWe95h6O7g.png" tvg-id="cindietv" tvg-chno="60" tvg-country="" group-title="OTT_STREAMSAT",060. cindie tv
 http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
