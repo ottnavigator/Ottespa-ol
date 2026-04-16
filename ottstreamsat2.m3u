@@ -108,7 +108,7 @@ http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog
 http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
 #EXTINF:-1 tvg-name="imagen universal tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuyepQGPfTsx9Mi4tyHXDG5diCSu4o_A3dI3zbbxQgiQ&s=10" tvg-id="imagenuniversaltv" tvg-chno="54" tvg-country="" group-title="OTT_STREAMSAT",054. imagen universal tv
 http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:-1 tvg-name="neo tv" tvg-logo="https://neotvdigital.com.ar/wp-content/uploads/2024/07/Logo-Neo-Tv-PNG-alta-calidad.png" tvg-id="neo tv" tvg-chno="55" tvg-country="" group-title="OTT_STREAMSAT",055. neo tv
+#EXTINF:-1 tvg-name="neo tv" tvg-logo="https://www.teleonline.tv/wp-content/uploads/2024/06/neotv-800x450.jpg" tvg-id="neo tv" tvg-chno="55" tvg-country="" group-title="OTT_STREAMSAT",055. neo tv
 http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
 #EXTINF:-1 tvg-name="box cinema" tvg-logo="https://a.jsrdn.com/hls/23195/box-cinema/logo_20250102_225527_70.png" tvg-id="boxcinema" tvg-chno="56" tvg-country="" group-title="OTT_STREAMSAT",056. box cinema
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; Mi Box) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.210 Safari/537.36
@@ -148,7 +148,7 @@ http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog
 http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
 #EXTINF:-1 tvg-name="multipremier" tvg-logo="https://laguia.tv/_nuxt/img/Multipremier_256.1534eb5.png" tvg-id="multipremier" tvg-chno="73" tvg-country="" group-title="OTT_STREAMSAT",073. multipremier
 http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:-1 tvg-name="sony" tvg-logo="https://amagatelevision.com/wp-content/uploads/2024/12/SONY-CHANNEL.png" tvg-id="sony" tvg-chno="74" tvg-country="" group-title="OTT_STREAMSAT",074. sony
+#EXTINF:-1 tvg-name="sony" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQopBk2AWEmP8tYgNPuXBtsC5o5tPiqHFpPlB-p0vt4_g&s=10" tvg-id="sony" tvg-chno="74" tvg-country="" group-title="OTT_STREAMSAT",074. sony
 http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
 #EXTINF:-1 tvg-name="sony cine" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOvzHPYGJ7cAveKI_dyZpxcZS3fpcjYOIcey6VL44LnpQvOXijYP0mgHaR&s=10" tvg-id="sonycine" tvg-chno="75" tvg-country="" group-title="OTT_STREAMSAT",075. sony cine
 http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
@@ -239,7 +239,7 @@ https://live.paltodaytv.com/paltv/live/chunklist.m3u8
 https://pbc.furrera.ps/musawahd/index.m3u8
 #EXTINF:-1 tvg-name="rtvce radio televisión ceuta" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Radio_Televisi%C3%B3n_Ceuta.svg/1200px-Radio_Televisi%C3%B3n_Ceuta.svg.png" tvg-id="rtvceradiotelevisiónceuta" tvg-chno="118" tvg-country="" group-title="OTT_STREAMSAT عربي",118. rtvce radio televisión ceuta
 https://www.dailymotion.com/cdn/live/video/x9f7miq.m3u8?sec=rxZtxPxdimB4RLYDSSIx_D2eRlq2oxVAKmb9nh79N02O0PCEJLnQitcj3eN-DDnA
-#EXTINF:-1 tvg-name="bbc news عربي" tvg-logo="https://play-lh.googleusercontent.com/3RvQX5qfET-nLzco0LkD7r9tSK6zr3QU2V4w7JhVeWv0e6XONUsrtBJrEYktF27lRDE" tvg-id="bbcnewsعربي" tvg-chno="119" tvg-country="" group-title="OTT_STREAMSAT عربي",119. bbc news عربي
+#EXTINF:-1 tvg-name="rtvce radio televisión ceuta" tvg-logo="https://www.ceutaplay.es/assets/customer/rrss.png" tvg-id="bbcnewsعربي" tvg-chno="119" tvg-country="" group-title="OTT_STREAMSAT عربي",119. bbc news عربي
 https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.mpd
 #EXTINF:-1 tvg-name="palestine tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_of_the_Palestinian_Broadcasting_Corporation.svg/1280px-Logo_of_the_Palestinian_Broadcasting_Corporation.svg.png" tvg-id="palestinetv" tvg-chno="120" tvg-country="" group-title="OTT_STREAMSAT عربي",120. palestine tv
 https://pbc.furrera.ps/palestinehd/index.m3u8
