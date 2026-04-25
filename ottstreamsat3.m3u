@@ -714,10 +714,10 @@ http://190.90.71.103:8000/play/a01t/index.m3u8
 http://45.190.187.183:8080/play/a1kr
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="318" group-title="OTT_STREAMSAT",318. nickelodeon
 http://181.78.82.6:46090/play/a00o?hls
-#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="319" group-title="OTT_STREAMSAT",319. canal infantil
-http://181.78.12.119:16123/play/ch06/index.m3u8
-#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="320" group-title="OTT_STREAMSAT",320. nickelodeon en español
+#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="319" group-title="OTT_STREAMSAT",319. nickelodeon en español
 https://jmp2.uk/plu-5d8d08395f39465da6fb3ec4.m3u8
+#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="320" group-title="OTT_STREAMSAT",320. canal infantil
+http://181.78.12.119:16123/play/ch06/index.m3u8
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="321" group-title="OTT_STREAMSAT",321. cartoonito
 http://45.5.118.136:8888/play/a0b9/index.m3u8 
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="322" group-title="OTT_STREAMSAT",322. canal la abeja maya
