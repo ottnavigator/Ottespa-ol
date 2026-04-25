@@ -1021,7 +1021,7 @@ https://live.kwikmotion.com/fujairahlive/fujairah.smil/playlist.m3u8
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mtv-lebanon/b8ebb2a5affb812f1541712adde10e26/index.m3u8
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="463" group-title="OTT_STREAMSAT_عربي",463. future tv
 https://live.kwikmotion.com/futurelive/ftv.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="464" group-title="OTT_STREAMSAT",464. pnc drama
+#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="464" group-title="OTT_STREAMSAT_عربي",464. pnc drama
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; Mi Box) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.210 Safari/537.36
 http://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/2888-1f16757c.m3u8
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="465" group-title="OTT_STREAMSAT_عربي",465. utv
