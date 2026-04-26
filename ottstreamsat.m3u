@@ -46,7 +46,8 @@ https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="21" group-title="OTT_STREAMSAT",021. teleritmo
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="22" group-title="OTT_STREAMSAT",022. retro tv
-https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8?PlaylistM3UCL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; Mi Box) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.210 Safari/537.36
+https://newstream.mediawork.cz/retrotv/smil:retrotv_new.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="23" group-title="OTT_STREAMSAT",023. urbano tv
 https://59ef525c24caa.streamlock.net/tvurbano/tvurbano/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="24" group-title="OTT_STREAMSAT",024. ch_24
@@ -66,8 +67,9 @@ https://vdochile.com:3115/hybrid/play.m3u8?PlaylistM3UCL
 https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="31" group-title="OTT_STREAMSAT",031. vintage music
 https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="32" group-title="OTT_STREAMSAT",032. ejtv
-http://190.61.34.164:8000/play/a043/index.m3u8
+#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="32" group-title="OTT_STREAMSAT",032. retro plus
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 14_2_1; rv:121.0) Gecko/20100101 Firefox/121.0
+https://scl.edge.grupoz.cl/retroplustvuno/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="33" group-title="OTT_STREAMSAT",033. trace latina
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; Mi Box) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.210 Safari/537.36
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-latina/encrypted.m3u8?ads.dpname=distrotv&ads.rnd=ysmd&ads.env_i=9ffdd2aa-5d8c-4c21-8d74-f5fca0e9a99c&ads.env_u=&ads.name=DistroTV&ads.bundle=&ads.storeurl=&ads.appCategory=entertainment&ads.app_version=202105131041&ads.width=360&ads.height=203&ads.deviceId=&ads.deviceDNT=0&ads.gdpr=0&ads.us_privacy=0&ads.aid=&ads.deviceMake=Web&ads.deviceIdType=localStorage&ads.deviceConnectionType=2&ads.deviceCategory=web&ads.client_ip=191.95.128.65&ads.geo=CO&ads.lat=11.00710&ads.long=-74.80920&ads.dma=&ads.geoType=2&ads.contentid=23073&ads.content_duration=18000&ads.episode_id=86556&ads.show_id=3242&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Music%2CMusic%20Video%2CContemporary%20Hits%2FPop%2FTop%2040%2CReggae%2CHip%20Hop%20Music%2CSpanish&ads.showRating=TV-G&ads.episodeRating=TV-G&ads.language=es&ads.showtitle=TRACE%20Latina&ads.episodetitle=TRACE%20Latina&ads.keywords=Spanish%2CMusic%2CLatina%2CLatino%2Cespanol&ads.contenturl=&ads.gdprConsent=&ads.paln=&ads.tagname=dtv&ads.islive=1&ads.streamtype=live&ads.vf=B3xeduDlkLa
@@ -174,8 +176,8 @@ https://jmp2.uk/rok-0de9839c79b758589c580dcdd4b40a8a.m3u8
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="79" group-title="OTT_STREAMSAT",079. tv azteca internacional
 https://dujft6o2exhah.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0lvc4h1b07aou/mun.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="80" group-title="OTT_STREAMSAT",080. canal 1 col
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; Mi Box) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.210 Safari/537.36
-https://live2.eu-north-1b.cf.dmcdn.net/sec2(22DhqAOcBmAKYvXQWkLRgc755FPZ6hId7cYQEnkYld_FfgblFML0zyBrApPh44sUpBC-TaniXMGV_l23lhaQm85avjWvih3DUsb9BXrWwp0Np6_j4M2zZmtP7IHw6T7A)/cloud/3/x9nvvkc/s/live-480.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 14_2_1; rv:121.0) Gecko/20100101 Firefox/121.0
+https://cdndirector.dailymotion.com/cdn/live/video/x9nvvkc.m3u8?sec=j99fpO-oejkUT325NPVp9jz7nHwyW304CYd7xrUgMtNTPq5HOFmKa24asTZpjTgunlj3VCkkJy6LcFwPMq07hmPq3Rhr6ovPJzXkKQoeXlo&dmTs=233834&dmV1st=470605f8-35e9-2c85-c113-9a065d293e5f
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="81" group-title="OTT_STREAMSAT",081. canal 2 misiones
 https://nd106.republicaservers.com:4433/hls/canal2misioness/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="82" group-title="OTT_STREAMSAT",082. canal 7 neuquén
