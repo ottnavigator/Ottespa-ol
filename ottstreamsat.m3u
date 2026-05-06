@@ -208,8 +208,8 @@ https://linear-318.frequency.stream/dist/vizio/318/hls/master/playlist.m3u8?ads.
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="92" group-title="OTT_STREAMSAT",092. venevision
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; Mi Box) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.210 Safari/537.36
 https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8
-#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="93" group-title="OTT_STREAMSAT",093. telefe santa fe 
-http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-10.playlist.m3u8
+#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="93" group-title="OTT_STREAMSAT",093. telefe
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/telefe.playlist.m3u8
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="94" group-title="OTT_STREAMSAT",094. tv azteca clic
 https://api-ott-azteca-azt.ottera.tv/loggingmediaurlpassthrough/a.m3u8?version=12&id=63&partner=metax&content_network=MetaXTV&app_bundle=MX_APP_BUNDLE&app_store_url=MX_APP_STORE_URL&cb=MX_CACHEBUSTER&device_id=MX_DUID&gdpr=MX_GDPR&gdpr_consent=MX_CONSENT&us_privacy=MX_US_PRIVACY&device_width=MX_WIDTH&device_height=MX_HEIGHT
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="95" group-title="OTT_STREAMSAT",095. corazón 
@@ -388,11 +388,12 @@ https://scl.edge.grupoz.cl/rtcstreaming/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="167" group-title="OTT_STREAMSAT",167. red+ tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; Mi Box) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.210 Safari/537.36
 https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/master.m3u8
-#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="168" group-title="OTT_STREAMSAT",168. campus tv
-https://5e85d90130e77.streamlock.net/6052/6052/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="169" group-title="OTT_STREAMSAT",169. red rural
+#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="168" group-title="OTT_STREAMSAT",168. canal 26
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; Mi Box) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.210 Safari/537.36
-https://7.innovatestream.pe:19360/redrural/redrural.m3u8
+https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
+#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="169" group-title="OTT_STREAMSAT",169. canal rural
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; Mi Box) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.210 Safari/537.36
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/rural.playlist.m3u8
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="170" group-title="OTT_STREAMSAT",170. campo abierto tv
 https://v2.tustreaming.cl/catvlive/index.m3u8
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="171" group-title="OTT_STREAMSAT",171. chacra tv
@@ -592,7 +593,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=13958&avod=1&coppa=0&td=6&
 https://59ef525c24caa.streamlock.net/garabitoTV/garabitotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="256" group-title="OTT_STREAMSAT",256. folklore tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; Mi Box) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.210 Safari/537.36
-http://190.223.48.46:8000/play/a05y/index.m3u8
+https://play.folkloretv.pe/StreamSD/index.m3u8
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="257" group-title="OTT_STREAMSAT",257. rakuten tv cine español
 https://spanish-cinema-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6196/master.m3u8?ads.Rakuten+TV+EU_channel=&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten....
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="258" group-title="OTT_STREAMSAT",258. rakuten tv acción
@@ -636,7 +637,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=16563&avod=1&coppa=0&td=6&
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="276" group-title="OTT_STREAMSAT",276. free tv familia 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=16561&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_latam&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="277" group-title="OTT_STREAMSAT",277. free tv drama 
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinerealfreetv-ono/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; Mi Box) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.210 Safari/537.36
+https://oly-ftvdu-orkatv.otteravision.com/oly/ftvdu/ftvdu.m3u8
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="278" group-title="OTT_STREAMSAT",278. free tv asia
 https://jmp2.uk/rok-9b3f0b588b03c9126a053d3eebfc58db.m3u8
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="279" group-title="OTT_STREAMSAT",279. free tv clásico
