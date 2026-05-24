@@ -385,8 +385,8 @@ https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/playlist.m3u8
 https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="173" group-title="OTT_STREAMSAT_عربي",173. musulmanes radio (radio راديو)
 https://redradioypc.com:8028/stream
-#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="174" group-title="OTT_STREAMSAT_عربي",mta 8 america
-https://chlivemta.akamaized.net/hls/live/2016718/mta8/playlist_audiospa.m3u8
+#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="174" group-title="OTT_STREAMSAT_عربي",174. shquran tv
+https://live.kwikmotion.com/sharjahtvquranlive/shqurantv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="175" group-title="OTT_STREAMSAT_عربي",175. holy quran
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; Mi Box) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.210 Safari/537.36
 http://streaming.zaytonatube.com:8080/holyquran/holyquran/tracks-v1a1/mono.ts.m3u8
