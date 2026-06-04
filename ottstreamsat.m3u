@@ -205,7 +205,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=3533
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="91" group-title="OTT_STREAMSAT",091. runtime terror
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3529
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="92" group-title="OTT_STREAMSAT",092. free tv 
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-chiquilines-ono/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; Mi Box) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.210 Safari/537.36
+https://www.apsattv.com/colg.m3u
 #EXTINF:-1 channel-id="59d2dbddc997559bb7b689a7c887cba4" tvg-id="59d2dbddc997559bb7b689a7c887cba4" tvg-chno="93" tvg-name="FreeTV Sureño" tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" group-title="OTT_STREAMSAT",093. free tv sureño
 https://jmp2.uk/rok-59d2dbddc997559bb7b689a7c887cba4.m3u8
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="94" group-title="OTT_STREAMSAT",094. free tv acción
