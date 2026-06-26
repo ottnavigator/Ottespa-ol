@@ -7,7 +7,9 @@ https://d1xc25jm9e0l4b.cloudfront.net/XITE_Siempre_Latino.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; Mi Box) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.210 Safari/537.36
 http://190.60.49.242:4000/play/a0lf/index.m3u8
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="4" group-title="OTT_STREAMSAT",004. vallenato Internacional
-https://59a564764e2b6.streamlock.net/vallenato/vallenatom/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tropicalmusictv.com/
+https://server80.servistreaming.com:3884/stream/play.m3u8
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="5" group-title="OTT_STREAMSAT",005. telenostalgia
 http://181.78.0.156:8000/play/a05q/index.m3u8
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="6" group-title="OTT_STREAMSAT",006. mi gente tv
@@ -335,7 +337,8 @@ https://jmp2.uk/stvp-ESBD2900001P9
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="147" group-title="OTT_STREAMSAT",147. aym
 https://aym-as.otteravision.com/aym/as/as_1080p.m3u8 
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="148" group-title="OTT_STREAMSAT",148. cdn deportes
-http://200.125.170.122:8000/play/a03j/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; Mi Box) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.210 Safari/537.36
+http://miotv.cc:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5SUFIT3RNTEhOcGJIMVhiTUY3NHVUcz0
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="149" group-title="OTT_STREAMSAT",149. motovision 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=757&livestream=1&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&custom4=plex&gdpr=0&device_make=&device_model=&coppa=1&us_privacy=1---&custom_6=tzFRBf5UEBHD_vbznsUx&custom_7=60da3a5c0d1cc1002c38370e
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="150" group-title="OTT_STREAMSAT",150. tv cuatro deportes
@@ -451,7 +454,7 @@ http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog
 http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="200" group-title="OTT_STREAMSAT_عربي",200. al madina
 http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="201" group-title="OTT_STREAMSAT_عربي",201. nawrast tv
+#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="201" group-title="OTT_STREAMSAT_عربي",201. ajyal tv
 http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="202" group-title="OTT_STREAMSAT_عربي",202. hala ramallah
 http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8

@@ -443,8 +443,8 @@ https://live-hls-web-ajm2-fa.getaj.net/AJM2/index.m3u8
 https://live-hls-web-ajm24-fa.getaj.net/AJM24/index.m3u8
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="200" group-title="OTT_STREAMSAT_عربي",200. al madina
 https://streaming.zaytonatube.com:8081/AlMadinatv/almadina21/index.m3u8
-#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="201" group-title="OTT_STREAMSAT_عربي",201. nawrast tv
-https://tv.jawa.ps:8443/jawa/nawrastv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="201" group-title="OTT_STREAMSAT_عربي",201. ajyal tv
+http://htvajyal.mada.ps:8888/ajyal/index.m3u8
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="202" group-title="OTT_STREAMSAT_عربي",202. red tv
 https://live.kwikmotion.com/redtvlive/redtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="203" group-title="OTT_STREAMSAT_عربي",203. rtvceuta radio televisión ceuta
