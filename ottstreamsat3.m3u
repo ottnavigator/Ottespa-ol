@@ -465,3 +465,4 @@ https://www.dailymotion.com/cdn/live/video/x9f7miq.m3u8?sec=rxZtxPxdimB4RLYDSSIx
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="203" group-title="OTT_STREAMSAT",204. radio nacional de colombia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
 #EXTVLCOPT:http-referrer=https://www.radionacional.co/en-vivo/en-vivo-radio-nacional-de-colombia
+https://geostreaming.rtvc.gov.co/Radio_Radionacional/Radionacional.stream/playlist.m3u8
