@@ -396,7 +396,7 @@ http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog
 http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="172" group-title="OTT_STREAMSAT_عربي",172. makkah tv
 http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="173" group-title="OTT_STREAMSAT",173. musulmanes radio (radio راديو)
+#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="173" group-title="OTT_STREAMSAT",173. musulmanes radio [audio] [صوت]
 https://redradioypc.com:8028/stream
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="174" group-title="OTT_STREAMSAT_عربي",174. shquran tv
 http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8
@@ -461,7 +461,7 @@ http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="203" group-title="OTT_STREAMSAT",203. rtvceuta radio televisión ceuta
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; Mi Box) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.210 Safari/537.36
 https://www.dailymotion.com/cdn/live/video/x9f7miq.m3u8?sec=rxZtxPxdimB4RLYDSSIx_D2eRlq2oxVAKmb9nh79N02O0PCEJLnQitcj3eN-DDnA
-#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="203" group-title="OTT_STREAMSAT",204. radio nacional de colombia
+#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="203" group-title="OTT_STREAMSAT",204. radio nacional de colombia [audio]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
 #EXTVLCOPT:http-referrer=https://www.radionacional.co/en-vivo/en-vivo-radio-nacional-de-colombia
 https://geostreaming.rtvc.gov.co/Radio_Radionacional/Radionacional.stream/playlist.m3u8
