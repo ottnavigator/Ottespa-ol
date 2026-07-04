@@ -167,8 +167,7 @@ https://jmp2.uk/rok-0de9839c79b758589c580dcdd4b40a8a.m3u8
 https://dujft6o2exhah.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0lvc4h1b07aou/mun.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 #EXTINF:-1 tvg-id="canal1.com.co" tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="80" group-title="OTT_STREAMSAT",080. canal 1 col
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
-#EXTVLCOPT:http-referrer=https://canal1.com.co/
-https://cdndirector.dailymotion.com/cdn/live/video/x9nvvkc.m3u8?sec=eovglPzLa93E3s-a5Rf_z5LF5fQig0U78tzmZKAHxPPOVWCFSgXHvcM5ZaXgcuPSNaQSHstvHsAqlT7K_TN_504rcr3RsZsz8Tx2QKtbOQIl4txWUqTE5LxPEvzOwv7P&dmTs=80408&dmV1st=7d7e6bdf-d9ec-0ce9-0896-1a0e5f68b5f7
+http://181.78.79.131:8000/play/a0s2
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="81" group-title="OTT_STREAMSAT",081. canal 2 misiones
 https://nd106.republicaservers.com:4433/hls/canal2misioness/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="82" group-title="OTT_STREAMSAT",082. canal 7 neuquén
