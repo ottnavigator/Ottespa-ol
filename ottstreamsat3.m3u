@@ -132,8 +132,7 @@ https://livestream.mediacci.com/ccitv/index.m3u8
 https://janya-digimix.akamaized.net/vglive-sk-351398/spanish/ngrp:angelspanish_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="63" group-title="OTT_STREAMSAT",063. daystar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
-#EXTVLCOPT:http-referrer=https://espanol.daystar.tv/player/37429/37429
-https://hls-live-media-gc.cdn01.net/mpegts/232076_1278490/LAjpQwKm9MCFbZx9BtpVBQ/1783103492/master_mpegts.m3u8?channel_id=37429&source=WebApp&app_id=4425&device_id=7412143652-7f43bb757f615f74689d537e63a278a3&lcp=3&play_id=1783017092736376
+https://live-mcl.cdn01.net/smarttv/64wj6m6d8/playlist.m3u8?ads.vf=pZi5TZqLjCe
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="64" group-title="OTT_STREAMSAT",064. canal orbe 21
 https://stream.arcast.net:4443/canal21/ngrp:canal21_all/chunklist_w542801212_b413840.m3u8
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="65" group-title="OTT_STREAMSAT",065. tv familia
@@ -166,9 +165,10 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-sams
 https://jmp2.uk/rok-0de9839c79b758589c580dcdd4b40a8a.m3u8
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="79" group-title="OTT_STREAMSAT",079. tv azteca internacional
 https://dujft6o2exhah.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0lvc4h1b07aou/mun.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
-#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="80" group-title="OTT_STREAMSAT",080. canal 1 col
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
-https://hls3.tdtcloud.xyz/hls/UnoCol/index.m3u8?token=iWVECmWX_MZN-zHtQi9NFQ&expires=1783074790
+#EXTINF:-1 tvg-id="canal1.com.co" tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="80" group-title="OTT_STREAMSAT",080. canal 1 col
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
+#EXTVLCOPT:http-referrer=https://canal1.com.co/
+https://cdndirector.dailymotion.com/cdn/live/video/x9nvvkc.m3u8?sec=eovglPzLa93E3s-a5Rf_z5LF5fQig0U78tzmZKAHxPPOVWCFSgXHvcM5ZaXgcuPSNaQSHstvHsAqlT7K_TN_504rcr3RsZsz8Tx2QKtbOQIl4txWUqTE5LxPEvzOwv7P&dmTs=80408&dmV1st=7d7e6bdf-d9ec-0ce9-0896-1a0e5f68b5f7
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="81" group-title="OTT_STREAMSAT",081. canal 2 misiones
 https://nd106.republicaservers.com:4433/hls/canal2misioness/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="82" group-title="OTT_STREAMSAT",082. canal 7 neuquén
@@ -743,7 +743,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=757&livestream=1&live=1&ap
 https://5ca3e84a76d30.streamlock.net/tv43gto/smil:tv43gto.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="358" group-title="OTT_STREAMSAT",358. euro sport
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
-http://elpapanatas.space:8080/JavierRenderos/xakRfkrgDJ/232944
+http://vpjertrcww.top:8080/VIP0199169433707119/1ec6e361fdcd/281
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="359" group-title="OTT_STREAMSAT",359. top barca
 https://amg17560-amg17560c2-freelivesports-emea-10992.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg17560-fcbarcelona-topbarcaspanish-freelivesportsemea/playlist.m3u8?channel_name=Top%20Barca%20Spanish&content_genre=Football%2CSport&ic=IAB17%2CIAB17-12&rating=G&language=ES&provider=FreeLiveSports&us_privacy=[US_PRIVACY]&gdpr=[GDPR]&gdpr_consent=[CONSENT_STRING]&coppa=0&content_livestream=1&p=sportstribal&url=[REF]&lmt=[LAT]&did=[DEVICE_ID]
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/18433260/22136/i/450/depositphotos_221368318-stock-photo-ott-iptv-video-streaming-internet.jpg" tvg-chno="360" group-title="OTT_STREAMSAT",360. tyc sports fan 
